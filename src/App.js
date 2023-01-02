@@ -51,7 +51,10 @@ function App() {
   }, 150)
   return (
     <div className="App">
-      <h1>{landingTitle}</h1>
+      <span >
+        <h1>{landingTitle}</h1>
+      </span>
+      
     </div>
   );
 }
