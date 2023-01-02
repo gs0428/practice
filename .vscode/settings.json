@@ -1,0 +1,6 @@
+{
+    "[html]": {
+        "editor.cursorBlinking": "blink",
+        "editor.insertSpaces": true
+    }
+}
